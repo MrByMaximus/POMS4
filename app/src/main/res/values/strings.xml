@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Лабораторная работа №4</string>
+    <string name="textView">Введите свое Имя и Фамилию</string>
+    <string name="textViewMain">Изменить</string>
+    <string name="textView1">Имя:</string>
+    <string name="textView2">Фамилия:</string>
+    <string name="button">Изменить поля</string>
+    <string name="buttonColor">Изменить цвет</string>
+    <string name="buttonAccess">Результат</string>
+    <string name="textView3">Число 1:</string>
+    <string name="textView4">Число 2:</string>
+    <string name="button4">Деление</string>
+    <string name="button1">Сложение</string>
+    <string name="button2">Вычитание</string>
+    <string name="button3">Умножение</string>
+    <string name="history" translatable="false">История</string>
+    <string name="history_text_first" translatable="false">Результат 1 фрагмента:</string>
+    <string name="history_text_second" translatable="false">Результат 2 фрагмента:</string>
+    <string name="button5">Листать</string>
+
+</resources>
